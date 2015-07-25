@@ -1,0 +1,16 @@
+/*
+Theme Name: Ruud Huijbregts
+Theme URI: www.mpedia.nl/wordpress-themes
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description: Adaptation of the 2012 theme by the WordPress team.
+Version: 1.7
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: twentytwelve
+Template: twentytwelve
+*/
+
+.nav-menu ul li {
+    margin-right: 1em;
+}
